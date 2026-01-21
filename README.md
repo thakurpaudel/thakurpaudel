@@ -28,25 +28,28 @@
 typedef struct {
     char* name;
     char* role;
-    char* passion[3];
+    char* specialization;
+    char* passion[4];
     bool loves_hardware;
     int coffee_cups_per_day;
 } Engineer;
 
 Engineer thakur = {
     .name = "Thakur Paudel",
-    .role = "Embedded Systems Engineer",
+    .role = "Lead Embedded Systems Engineer - EV",
+    .specialization = "Hardware Design & Firmware Development",
     .passion = {
         "Low-level programming (C/C++ is ❤️)",
-        "Laptop keyboards & hardware tinkering",
-        "Bare-metal firmware that makes chips dance"
+        "Hardware design & PCB architecture",
+        "Continuous learning & innovation",
+        "Bare-metal firmware that powers electric vehicles"
     },
     .loves_hardware = true,
     .coffee_cups_per_day = INT_MAX
 };
 ```
 
-I'm a hardware-obsessed embedded engineer who lives at the intersection of **code and circuits**. When I'm not writing firmware that talks directly to silicon, you'll find me disassembling keyboards, optimizing interrupt handlers, or diving deep into datasheets at 2 AM. I believe the most beautiful code is the one that makes LEDs blink in perfect harmony! 💡
+I'm a **Lead Embedded Systems Engineer** specializing in **Electric Vehicle (EV) technology**, living at the intersection of **hardware design and firmware development**. From conceptualizing circuit designs to writing bare-metal code that brings them to life, I craft complete embedded solutions. When I'm not optimizing power management systems or debugging CAN bus communications, I'm constantly learning new technologies and pushing the boundaries of what's possible in the EV space. I believe the future is electric, and I'm writing the code that drives it! ⚡🚗
 
 ---
 
@@ -57,21 +60,22 @@ I'm a hardware-obsessed embedded engineer who lives at the intersection of **cod
 <td width="50%">
 
 ### 💻 The Code Side
-- **Low-level programming fanatic** (C/C++ is my love language)
-- Bare-metal development enthusiast
-- Real-time systems & RTOS expert
-- Firmware optimization ninja
-- Device driver developer
+- **Low-level programming expert** (C/C++ is my love language)
+- Bare-metal firmware development
+- Real-time systems & RTOS implementation
+- Firmware optimization & debugging
+- Device driver & bootloader development
 
 </td>
 <td width="50%">
 
 ### 🔧 The Hardware Side
-- **Keyboard hardware enthusiast**
-- Circuit design & PCB layout
-- MCU whisperer (ARM, AVR, ESP32)
-- Oscilloscope is my best friend
-- If it has pins, I'll program it!
+- **PCB design & circuit architecture**
+- Schematic design & component selection
+- Power management systems
+- MCU integration (ARM, AVR, ESP32)
+- Signal integrity & EMI/EMC design
+- Prototyping & testing
 
 </td>
 </tr>
@@ -112,7 +116,33 @@ I'm a hardware-obsessed embedded engineer who lives at the intersection of **cod
 
 </div>
 
+---
 
+## 🎨 My Playground
+
+```
+├── ⚡ Electric Vehicle Systems
+│   ├── Battery Management Systems (BMS)
+│   ├── Motor control firmware
+│   └── Vehicle CAN bus networks
+│
+├── 🔌 Hardware Design
+│   ├── PCB design & layout
+│   ├── Power electronics circuits
+│   └── Sensor integration systems
+│
+├── 💻 Firmware Development
+│   ├── Bare-metal embedded code
+│   ├── RTOS-based applications
+│   └── Bootloaders & device drivers
+│
+└── 📚 Continuous Learning
+    ├── New protocols & standards
+    ├── Emerging technologies
+    └── Industry best practices
+```
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -141,6 +171,7 @@ I'm a hardware-obsessed embedded engineer who lives at the intersection of **cod
 
 <div align="center">
 
+[![UpWork](https://img.shields.io/badge/Upwork-FF7139?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a985fb2bc00bb5dd)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://thakurpaudel.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakurpaudel/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thakur044)
