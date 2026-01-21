@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurpaudel&label=Profile%20views&color=0e75b6&style=flat" alt="thakurpaudel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakurpaudel" alt="thakurpaudel" /></a> </p>
+<p align="left"> <a href="https://thakurpaudel.github.io/"><img src="https://thakurpaudel.github.io/" alt="thakurpaudel" /></a> </p>
 
 <p align="left"> <a href="https://x.com/thakur044" target="blank"><img src="https://img.shields.io/twitter/follow/thakur044?logo=twitter&style=for-the-badge" alt="thakur paudel" /></a> </p>
 
